@@ -1,6 +1,10 @@
 <h1 align="center">Hey there!👋 This is Gabriel Alfaro </h1>
 <h3 align="center">✨ A future Computer Engineer from Costa Rica ✨</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielAlfaro07&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielAlfaro07" /> 
+</div>
+
 <h2 align="left">👩‍💻 About Me:</h2>
 
 - 🚀 Pursuing a Bachelor's Degree in Computer Engineering at the **Instituto Tecnológico de Costa Rica**.
