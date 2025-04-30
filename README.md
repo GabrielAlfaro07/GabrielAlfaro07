@@ -8,7 +8,7 @@
 <h2 align="left">👩‍💻 About Me:</h2>
 
 - 🚀 Pursuing a Bachelor's Degree in Computer Engineering at the **Instituto Tecnológico de Costa Rica**.
-- 🌱 Currently in my sixth semester, focusing on developing skills in software engineering.
+- 🌱 Currently in my seventh semester, focusing on developing skills in software engineering.
 - 💻 Passionate about solving problems through technology and building impactful software solutions.
 - 🌍 Interested in web development, mobile app creation, game development, and continuous learning in software engineering.
 - 📫 You can reach me here: [galfaulate@gmail.com](mailto:galfaulate@gmail.com)
